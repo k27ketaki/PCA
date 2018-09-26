@@ -21,6 +21,6 @@ eigen_data$values
 #Components calculated by PCA
 iris_pca$sdev^2
 
-#Comparing eigen vectors
+#Comparing eigen vector
 eigen_data$vectors
 iris_pca$loadings[,1:4]
